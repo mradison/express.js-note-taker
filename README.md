@@ -24,7 +24,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock Up
 
+Link to live Heroku website:
 
+https://lit-island-70015-5aa84570dd22.herokuapp.com/
+
+Link to GitHub repository: 
+
+https://github.com/mradison/express.js-note-taker
 
 ## Notes
 
